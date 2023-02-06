@@ -10,7 +10,7 @@ currently is working managing databases in a call center company.
 
 <!--* 🏡 [My Portfolio](https://jamesqquick.com/) -->
 * 🔭 I’m currently working as a Real Time Analyst 
-* 🌱 I’m currently learning Typescript 
+* 🌱 I’m currently learning Ruby 
 * 🌍 I'm based in Colombia UTC-5 
 * 🧠 I'm continuously gaining knowledge and experience to improve my skills. 
 * 😄 Pronouns: he/him 
